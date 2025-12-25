@@ -1,0 +1,41 @@
+# macOS 系统生成的文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows 系统生成的文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# 编辑器 / IDE 临时文件（常见于 VS Code、Sublime、Notepad++ 等）
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# 其他常见临时/备份文件
+*.log
+*.cache
+*.old
+*.backup
+*.orig
+*.rej
+
+# 如果你以后自己测试/本地修改规则用的临时文件
+# 可以按需加，比如：
+# test.list
+# temp-*.list
+
+# 敏感信息（强烈建议加）
+# 千万别把 API key、token、密码等放进 repo
+*.key
+*.pem
+*.secret
+.env
+secrets.*
