@@ -1,8 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,interactivebrokers.com
   - DOMAIN-SUFFIX,ibkr.com
-  - DOMAIN-SUFFIX,ibkr.hk
-  - DOMAIN,www.interactivebrokers.com
+  - DOMAIN-SUFFIX,ibkr.hk  
   - DOMAIN,portal.interactivebrokers.com
   - DOMAIN,gw1.ibllc.com
   - DOMAIN,gw2.ibllc.com
